@@ -44,4 +44,6 @@ Feel free to reach out for feedback or suggestions:
 
 
 ## Demo
-(https://drive.google.com/file/d/1cvLIMZKIfF_3cFKmT1JHGDzj7Th3Tqi-/view?usp=sharing)
+https://github.com/user-attachments/assets/55dc7d53-53aa-4b7d-b4f0-29ea66a7925a
+
+
