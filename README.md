@@ -44,7 +44,4 @@ Feel free to reach out for feedback or suggestions:
 
 
 ## Demo
-<video width="640" height="360" controls>
-  <source src="todoconsoleappdemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+(https://drive.google.com/file/d/1cvLIMZKIfF_3cFKmT1JHGDzj7Th3Tqi-/view?usp=sharing)
