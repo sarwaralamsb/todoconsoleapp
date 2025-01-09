@@ -33,7 +33,6 @@ A simple console-based Todo List application built with C#. This project demonst
 
 ## Contact
 Feel free to reach out for feedback or suggestions:
-
 - **Email:** [sarwaralamsb96@gmail.com](mailto:sarwaralamsb96@gmail.com)  
 - **GitHub:** [@sarwaralamsb](https://github.com/sarwaralamsb)
 
